@@ -4,10 +4,9 @@
 ▀░░░▀ ▀░░▀ ▀▀▀░ ▀▀▀   ▀▀▀░ ▄▄▄█   ▀░░ ▀▀▀ ▀▀▀ ▀▀▀ ▀░▀
 --]]
 
-resource_manifest_version '05cfa83c-a124-4cfa-a768-c24a5811d8f9'
-
-
+fx_version 'bodacious'
+games 'gta5'
 client_script 'client.lua'
-
-
+author 'Felix-QC'
+version '1.1.0'
 
